@@ -1,5 +1,5 @@
 
-## **Data explanation**
+## **DATA EXPLANATION**
 <p>
 The billionaires dataset [1] comprises a list of World’s billionaires. A data frame with 2615 rows over three years 1996, 2001 and 2014 on average of 829 number of billionaires, on 22 numerical and categorical variables.
 
@@ -57,7 +57,7 @@ Robert Naify | 234 | 2001 | 1912 |  | relation | movie theatres | new | 79 | mal
 <br>🔶 Values of GDP use scientific notation since they are very large
 numbers.
 
-## **Data composition**
+## **DATA COMPOSITION**
 <p>
 We could see some important features about dataset composition as follows:
 Billionaires dataset comprises some data types of variables as seen in [1, Tab. II]. Some formats for numerical values use scientific notation since they are large numbers as shown in Table II.
@@ -69,3 +69,9 @@ Billionaires dataset comprises some data types of variables as seen in [1, Tab. 
 * It has some wrong values, uncertain and missing values as seen in [1,Table II]. For instance, wrong values in demographics age are represented as 0 or negative values. Missing values are represented by blanks like some company name values. Also, uncertain values are marked with a question symbol.
 * Its last version is 2.0.0.
 </p>
+
+## **REFERENCES**
+[1] CORGIS, “CORGIS Dataset Project” CORGIS [Online]. Available: https://corgis-edu.github.io/corgis/csv/billionaires/. [Accessed on: Nov. 11, 2021]
+<br>[2] R. Whitcomb (2016, May), “Billionaires CSV File” CORGIS [Online]. Available: https://corgis-edu.github.io/corgis/csv/billionaires/. [Accessed on: Nov. 8, 2021].
+<br>[3] CORGIS, “CORGIS Dataset Project” CORGIS [Online]. Available: https://github.com/RealTimeWeb/datasets/blob/master/README.md. [Accessed on: Nov. 8, 2021].
+<br>[4] CORGIS, “CORGIS Dataset Project” CORGIS [Online]. Avail- able: https://github.com/RealTimeWeb/datasets/blob/master/LICENSE. [Accessed on: Nov. 11, 2021].
