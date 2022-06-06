@@ -1,8 +1,9 @@
 ## **IMPLEMENTATION OF BILLIONAIRES POSTER**
 The purpose of this report is to present the implementation process of the billionaire’s poster which includes the final visualisation. This process included the following steps:
-• Selection of the sections to be included in the poster. These sections allow to support the story telling.
-• The management of canvas space to organise each ele- ment. We defined the number of columns of the poster.
-• Placing each element of the poster. The elements were placed following the Gutenberg diagram.
+
+* Selection of the sections to be included in the poster. These sections allow to support the story telling.
+* The management of canvas space to organise each element. We defined the number of columns of the poster.
+* Placing each element of the poster. The elements were placed following the Gutenberg diagram.
 
 ### **I. IMPLEMENTATION**
 
@@ -42,7 +43,7 @@ The sections to be shonw in billionaires poster were selected to guide, inform a
 
 #### **A. DESIGN OF POSTER**
 
-The Undergraduate Research Center [1] proposed the fol- lowing guidelines to implement a good poster.The poster is design following the next guidelines.
+The Undergraduate Research Center [1] proposed the following guidelines to implement a good poster.The poster is design following the next guidelines.
 
 * Poster flow. First we divided our canvas in three columns. Then, the Gutenberg diagram is used to placed our sections based on importance.
 * Fonts and formatting. The following guidelines were followed:

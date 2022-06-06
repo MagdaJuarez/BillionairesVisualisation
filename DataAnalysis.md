@@ -17,7 +17,7 @@ Table I. TABLE SHOWS VARIABLES' KEYS AND COMMENTS FOR BILLIONAIRES DATASET
 
 *#* | *Variable name* | *Description* | *Type* | *Example* | *Category* | *Quantity* | *Range*
 --------|--------|------|--------|------|--------|--------|------
-[,1] | Name | The name of the bil- lionaire. | String | Warren Buffett | Nominal |  | Defined finite list
+[,1] | Name | The name of the billionaire. | String | Warren Buffett | Nominal |  | Defined finite list
 [,2] | rank | The rank of this billionaire compared to the rest of the billionaires reported on. A lower rank means they make more money. | Integer | 2 |  | Continuous | From 1 to 1565
 [,3] | year | The year that data about this billionaire was collected. | Integer | 2001 | | Discrete | Defined finite list
 [,4] | company. founded | The year that the company was founded. | Integer | 1962 |  | Discrete | Finite range
@@ -29,7 +29,7 @@ Table I. TABLE SHOWS VARIABLES' KEYS AND COMMENTS FOR BILLIONAIRES DATASET
 [,10] | demographics. gender | A string representing their gender. | String | male | Nominal |  | 12 to 98
 [,11] | location. citizenship | The name of the country that this billionaire has citizenship with.  | String | United States | Nominal |  | Defined finite list
 [,12] | location. country code | The 3-letter country code of the country where this billionaire has citizenship. | String | USA | Nominal |  | Defined finite list
-[,13] | location. gdp | The ”Gross Domestic Product” of the country where the billion- aire has citizenship. This is one of the primary indicators used to gauge the health of a country’s economy. It represents the total dollar value of all goods and services produced over a spe- cific time period; you can think of it as the size of the economy. | Integer | 10,600,000, 000,000.00 |  | Continuous | Infinite(exact)
+[,13] | location. gdp | The ”Gross Domestic Product” of the country where the billionaire has citizenship. This is one of the primary indicators used to gauge the health of a country’s economy. It represents the total dollar value of all goods and services produced over a specific time period; you can think of it as the size of the economy. | Integer | 10,600,000, 000,000.00 |  | Continuous | Infinite(exact)
 [,14] | location. region | The region of the world where this billionaire lives. | String | Noth America | Nominal |  | Defined short list
 [,15] | wealth. type | The type of billionaire that they are. | String | founder non-finance | Nominal |  | Defined short list
 [,16] | wealth. worth in billions | The number of billion of dollars that this billionaire is worth. | Float | 32.3 |  | Continuous | Infinite

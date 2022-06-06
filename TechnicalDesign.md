@@ -2,16 +2,16 @@
 
 ### **I. SKETCHING BILLIONAIRES’ POSTER USING FIVE DESIGN OF SHEETS**
 
-* **The first sheet** "Fig. 1" was made using different retinal variables like length, color, shape and area. We used some classical graphs  such as bar charts, stacked bar charts and symbols maps. We included other uncommon graphs like networks, grid cartogram, Sankey diagram and ensemble graphs. A brief description of each graph's elements are depicted. 
-All of the graphs are grouped in sevent categories such as: Classical bar charts, networks, non-classical graphs, radial graphs, graphs with polygons, symbol maps and other. To have extra design ideas we decided to combine and refine Network1 graph and circular barplot. For the Network 1 graph we swapped circular nodes per horizontal bars and for the circular barplot we swapped the horizontal bars for horizontal stacked bars.
-Finally, three visualisations were selected which were two ensemble graphs and the last one comprises two complementary visualisations. One of the ensemble graph looks like a worlds which depicts sectors grouped by country. Theses sectors looks like buildings which are attractive to the users. Also, billionaires’ number are represented by glyphs which look like people. The second ensemble graph comprises a stacked bar chart which include semicircles on the top of each bar. This semicircle shows percentage of billionaires’ number per gender, country and year. The last selected visualisation comprises a nested rectangle graph and a coxcomb chart. The first represents wealth as percentage per sector, country and year and the second shows billionaires’ number as percentage per gender, country and year.
+* **The first sheet** "Fig. 1" contains sketches of visualisation which use different retinal variables like length, color, shape and area. We used some classical graphs  such as bar charts, stacked bar charts and symbols maps. We included other uncommon graphs like networks, grid cartogram, Sankey diagram and ensemble graphs. A brief description of each graph's elements are depicted. 
+All of the graphs are grouped in sevent categories such as: classical bar charts, networks, non-classical graphs, radial graphs, graphs with polygons, symbol maps and other. To have extra design ideas we decided to combine and refine Network1 graph and circular barplot. For the Network 1 graph we swapped circular nodes per horizontal bars and for the circular barplot we swapped the horizontal bars for horizontal stacked bars.
+Finally, three visualisations were selected which were two ensemble graphs and the last one comprises two complementary visualisations. One of the ensemble graph looks like a worlds which depicts sectors grouped by country. Theses sectors looks like buildings which are attractive to the users. Also, billionaires’ number are represented by glyphs which look like people. The second ensemble graph comprises a stacked bar chart which include a semicircle on the top of each bar. This semicircle shows percentage of billionaires' number per gender, country and year. The last selected visualisation comprises a nested rectangle graph and a coxcomb chart. The first represents wealth as percentage per sector, country and year and the second shows billionaires’ number as percentage per gender, country and year.
 
 <center>
 <br><img src="Img/Sheet1.jpg" alt="FirstDesignSheet" width="700"/>
 <br>Figure 1. First sheet.
 </center>
 
-* **The second sheet** "Fig. 2" describes with more detail the design of the first ensemble graph. This is comprised for two bar chats one over the other. The first bar chart depicts the average wealth per sector and country which is represented by horizontal bar. The second bar chart shows also horizontal bars which depicts the average wealth per gender and country. The horizontal bars of the last chart have a person's shape. The advantages of this design are:
+* **The second sheet** "Fig. 2" describes with more detail the design of the first ensemble graph. This comprised two bar charts one over the other. The first bar chart depicts the average wealth per sector and country which is represented by horizontal bar. The second bar chart shows also horizontal bars which depicts the average wealth per gender and country. The horizontal bars of the last chart have a person's shape. The advantages of this design are:
     - The graph is easy to understand since most of the users are familiarized with bar charts.
     - It's eye-catching since it looks like a city with people.
     - Bar's height is easy to read and interpret for any user.
@@ -73,7 +73,9 @@ Furthermore, this sheet describes the process to draw this graph and the main re
 
 ### **II. CRITICAL DESIGN SURVEY**
 
-Although our critical design Survey (CDS) "Fig. 6" qualifies the final visualisation as a good design, we still have some improvements to make such as separate the semicircle from the top of the bar to avoid confusing the user about the upper limit of each bar. Our first impressions about our final poster design are detail as follows:
+Although our critical design Survey (CDS) "Fig. 6" qualifies the final visualisation as a good design, we still have some improvements to make such as separate the semicircle from the top of the bar to avoid confusing the user about the upper limit of each bar. 
+
+Our first impressions about our final poster design are detail as follows:
 
 * Complex. Although the visualisaion shows two common graphs like stacked bars and semicircle sectors, it looks a little bit complex at the first sight. So, a guide to read the graph is included to help the user to understand better the visulisation.
 * Organised. The horizontal stacked bars will be ordered from the richest to the least reach and the semicircle sector are ordered from the greatest number to the lowest number of billionaires. Both orders help end-user to understand the storytelling of the visualisation.
