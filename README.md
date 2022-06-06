@@ -16,5 +16,5 @@ At the end, we developed a poster that includes the implemented visualisation an
 
 ## 1. **[Data anlysis for visualisation](/DataAnalysis.md)**
 ## 2. **[Technical Design Plan](/TechnicalDesign.md)**
-## 3. **[Implementation of billionaires's visualisation](/ImplementationVisualisation.md)**
-## 4. **[Implementation of billionaire's poster](/ImplementationPoster.md)**
+## 3. **[Implementation of billionaires visualisation](/ImplementationVisualisation.md)**
+## 4. **[Implementation of billionaires poster](/ImplementationPoster.md)**
